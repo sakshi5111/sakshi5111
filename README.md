@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sakshi Mawal</h1>
-<h3 align="center">A passionate Frontend developer from India</h3>
+<h3 align="left">A passionate Frontend developer from India</h3>
 
 <img align="right" alt="coding" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif" width="400">
 
