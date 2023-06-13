@@ -5,7 +5,7 @@
 
 I design and code beautifully simple things, and I love what I do✨
 
-- 🔭 I’m currently working on **React based projects**
+- 🔭 I’m currently pursuing **Masters of Computer Application**
 
 - 🌱 I’m currently learning **Reactjs**
 
