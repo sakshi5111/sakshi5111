@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sakshi Mawal</h1>
 <h3 align="center">A passionate Frontend developer from India</h3>
 
-<img align="right" alt="coding" src="![image](https://github.com/sakshi5111/sakshi5111/assets/72803817/c6840444-80b1-48b9-a8b8-0d40e8798809)" width="400">
+<img align="right" alt="coding" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fgallery%2F116770475%2FAnimated-illustrations&psig=AOvVaw167gzEhFCfudyojI9SpvFL&ust=1686740130712000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLiR4-iKwP8CFQAAAAAdAAAAABAR" width="400">
 
 I design and code beautifully simple things, and I love what I do✨
 
