@@ -7,9 +7,9 @@ I design and code beautifully simple things, and I love what I do✨
 
 - 🔭 I’m currently pursuing **Masters of Computer Application**
 
-- 🌱 I’m currently learning **Reactjs**
+- 🌱 I’m currently learning **Nodejs**
 
-- 👯 I’m looking to collaborate on **open source**
+- 👯 I’m looking to collaborate on **Open source**
 
 - 💬 Ask me about **Reactjs , JavaScript**
 
